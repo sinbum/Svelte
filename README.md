@@ -1,5 +1,5 @@
 ------------------------------------------------
-2022/05/12
+[heropy svelte practice](https://heropy.blog/2019/09/29/svelte/)
 
 # Svelte Core API
 
