@@ -20,6 +20,21 @@
     - 사용 패턴
   2. 스타일 유효범위와 전역화
   3. @kyfrmaes 전역화
+## 요소 바인딩
+  1. 일반 요소
+  2. 입력 요소  
+      input.type : text,number,range,checkbox,checkbox,checkbox/group(다중선택)  
+      textarea/value  
+      select : option
+  4. 편집 가능 요소
+## 조건 블록
+  1. 사용 패턴
+## 반복 블록  [링크](https://svelte.dev/repl/b1f53749f8014e9c82fb8ea7d5d26825?version=3.29.4)
+  1. key
+  2. 사용 패턴  
+기본,순서별,아이템 고유화(key),빈 배열 처리(else),구조 분해 (destructuring),2차원 배열, 나머지 연산자(Rest), 객체 데이터
+  
+    
   
   
   
